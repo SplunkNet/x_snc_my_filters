@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">bedc1b39cc5533007f448723231f7db0</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:40:05</sys_created_on>
+        <sys_id>3edc1b39cc5533007f448723231f7db1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="My Custom Filters and Applications" source="x_snc_my_filters">59cb9bf5cc5533007f448723231f7d5e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom Filters and Applications">59cb9bf5cc5533007f448723231f7d5e</sys_scope>
+        <sys_update_name>sys_grid_canvas_3edc1b39cc5533007f448723231f7db1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:40:05</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
